@@ -1,0 +1,8 @@
+//A first program
+#include <iostream>
+
+
+int main() {
+    std::cout << "welcome to c++ Hello, World!" << std::endl;
+    return 0;
+}
